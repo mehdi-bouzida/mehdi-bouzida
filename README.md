@@ -1,10 +1,9 @@
 ### Hi there, I'm Mehdi.[website] 👋
 
-- 🔭 I'm a React ⚛️ fanboy
-- 🌱 I’m eager to learn everyday
-- 👯 I'm a ⚽ fan ✌️
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ In my non-coding hours, I'm a cinephile 🎥 and musician 🎸.
+-  I'm a React ⚛️ fanboy
+-  I’m eager to learn everyday
+-  I'm a ⚽ fan 
+-  In my non-coding hours, I'm a cinephile 🎥 and musician 🎸.
 
 ### 📬 Get in Touch
 
